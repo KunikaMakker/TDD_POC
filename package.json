@@ -1,0 +1,14 @@
+{
+  "name": "leap_year",
+  "version": "1.0.0",
+  "description": "to find a leap year",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "24.7.1"
+  },
+  "author": "Kunika",
+  "license": "ISC"
+}
